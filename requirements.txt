@@ -1,0 +1,36 @@
+certifi==2020.6.20
+cffi==1.15.0
+chardet==4.0.0
+click @ file:///opt/concourse/worker/volumes/live/2d66025a-4d79-47c4-43be-6220928b6c82/volume/click_1646056610594/work
+coloredlogs==15.0.1
+cryptography==36.0.2
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+Flask-Uploads==0.2.1
+Flask-WTF==1.0.0
+gunicorn==20.1.0
+humanfriendly==10.0
+img2pdf==0.4.4
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+lxml==4.8.0
+MarkupSafe @ file:///Users/builder/ci_310/markupsafe_1642534112998/work
+numpy==1.22.3
+ocrmypdf==13.4.3
+opencv-python==4.5.5.64
+packaging==21.3
+pdf2image==1.16.0
+pdf2img==0.1.2
+pdfminer.six==20211012
+pdfplumber==0.6.0
+pikepdf==5.1.2
+Pillow==9.1.0
+pluggy==1.0.0
+poppler-utils==0.1.0
+pycparser==2.21
+pyparsing==3.0.8
+pytesseract==0.3.9
+reportlab==3.6.9
+tqdm==4.64.0
+Wand==0.6.7
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+WTForms==3.0.1
